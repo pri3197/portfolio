@@ -20,7 +20,7 @@ function About() {
         Frameworks: Spring MVC, Spring Boot, Hibernate, JPA  <br/>
         Versionskontrolle: Git, Maven, Gitlab  <br/>
         Operating System: Windows, Linux  <br/>
-        Container/Cloud: Docker, AWS  <br/>
+        Container/Cloud: Docker, AWS <br/>
        
        
         </p>

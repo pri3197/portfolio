@@ -44,7 +44,6 @@ function Home() {
         </>
        )}
        </ol>
-
        <p
        onMouseEnter={() => setShowItems3(true)}
        onClick={()=>setShowItems3(false)}
