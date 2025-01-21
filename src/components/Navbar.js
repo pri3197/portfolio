@@ -15,14 +15,14 @@ const toggleNavbar =()=>{
       <div className='leftSide' id={openLinks ?"open": "close"}>
         <img src={photo}/>
         <div className='hiddenLinks'>
-        <Link to ="/"> Home </Link>
+        <Link to ="/portfolio"> Home </Link>
         <Link to ="/projects"> Projects </Link>
         <Link to ="/about"> About </Link>
         <Link to ="/contact"> Contact </Link>
         </div>
       </div>                        
       <div className='rightSide'>
-        <Link to ="/"> Home </Link>
+        <Link to ="/portfolio"> Home </Link>
         <Link to ="/projects"> Projects </Link>
         <Link to ="/about"> About </Link>
         <Link to ="/contact"> Contact </Link>
