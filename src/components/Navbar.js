@@ -20,6 +20,7 @@ const toggleNavbar =()=>{
         <Link to ="/about"> About </Link>
         <Link to ="/contact"> Contact </Link>
         </div>
+        
       </div>                        
       <div className='rightSide'>
         <Link to ="/portfolio"> Home </Link>

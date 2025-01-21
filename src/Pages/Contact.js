@@ -8,8 +8,7 @@ function Contact() {
     <div className="contact">
       <div
         className="leftSide"
-      
-      ><img src ={contact} style={{height:"100%", width:"100%"}}/></div>
+            ><img src ={contact} style={{height:"100%", width:"100%"}}/></div>
       <div className="rightSide">
         <h1> Contact </h1>
         <Link to="">   <img src={iconLinkedin} style={{paddingLeft:"25px",height: "5vh", width:"5vh"}}/>
