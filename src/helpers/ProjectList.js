@@ -3,9 +3,10 @@ import GeoFence from '../media/GeoFence.png'
 
 export const ProjectList = [
   {
-    name: "Standardisation",
+    
+    name: "Standardisation Platform",
     image: Backend,
-    link: "https://www.mein-check-in.de/kaiserslautern/stellenangebote"
+    link: "https://github.com/pri3197/platform"
   },
   {
     name:'Geofencing- In development',
