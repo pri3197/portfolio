@@ -6,7 +6,7 @@ function ProjectItem({ image, name, link }) {
        <Link to={link}> 
        <div style={{ backgroundImage: `url(${image})` }}> </div>
       <h1> {name} </h1>
-      <p> {link}</p>
+     
       </Link>
     </div>
  
